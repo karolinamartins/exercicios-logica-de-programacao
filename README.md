@@ -1,2 +1,2 @@
-# exercicios-logica-de-programacao
- Exercícios do curso de Algoritmos do Curso em vídeo.
+# Exercícios de lógica de programação
+ **Exercícios do curso de Algoritmos do Curso em vídeo.**
